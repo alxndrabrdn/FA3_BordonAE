@@ -1,12 +1,12 @@
 body {
-	background-image: url("background.jpeg");
+	background-image: url('background.jpeg');
 	background-repeat: no-repeat;
 	background-position: center;
 }
 h1 {
 	text-align: center;
 	background-color: #cca1f5;
-	font-family: Courier new, monospace;
+	font-family: 'Comic Sans MS', cursive;
 	border-color: blue;
 	border-style: dotted;
 	border-width: 2px;
